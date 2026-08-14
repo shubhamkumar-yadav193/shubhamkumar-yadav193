@@ -7,7 +7,7 @@
 
 **Building modern web experiences and learning to integrate AI into real-world applications.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=bluecenter=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+Progress;Currently+Learning+JavaScript;Future+React+%2B+Node.js+Developer;Exploring+AI-Powered+Web+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=darkblue center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+Progress;Currently+Learning+JavaScript;Future+React+%2B+Node.js+Developer;Exploring+AI-Powered+Web+Applications" alt="Typing SVG" /> 
 
 <br>
 
